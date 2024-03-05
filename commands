@@ -1,1 +1,2 @@
-shutdown /t 100 /p
+timeout 100
+shutdown /p /f

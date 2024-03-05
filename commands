@@ -1,1 +1,1 @@
-shutdown /f /p
+start explorer.exe

